@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetricManager", "MetricManager.csproj", "{09DBF4D9-7273-4F06-AAFD-7CDDB6556623}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatricManagerTests", "..\MatricManagerTests\MatricManagerTests.csproj", "{B8BF498C-15C2-4B69-BEC7-F5BA54BE8EAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09DBF4D9-7273-4F06-AAFD-7CDDB6556623}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09DBF4D9-7273-4F06-AAFD-7CDDB6556623}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09DBF4D9-7273-4F06-AAFD-7CDDB6556623}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09DBF4D9-7273-4F06-AAFD-7CDDB6556623}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8BF498C-15C2-4B69-BEC7-F5BA54BE8EAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8BF498C-15C2-4B69-BEC7-F5BA54BE8EAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8BF498C-15C2-4B69-BEC7-F5BA54BE8EAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8BF498C-15C2-4B69-BEC7-F5BA54BE8EAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5645ADCD-77D0-4C8E-8EC7-F8FA5609D59D}
+	EndGlobalSection
+EndGlobal
